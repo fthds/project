@@ -140,10 +140,53 @@ body {
     margin-top: 5px;
 }
 .text-chat{
-    margin-top: 15px;
+    margin-top: 9px;
     min-height: 100px;
     background: #3C4276;
     padding: 12px 0 12px 0;
     height: 100px;
     border-radius: 3px;
+}
+.number{
+    color: #6d4ec7;
+}
+.text-a{
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'Fjalla One', sans-serif;
+    padding-top: 25px !important;
+    background-color: transparent;
+}
+.on-peop{
+    padding-top: 27px !important;
+    color: #95C71F;
+    font-family: 'Fjalla One', sans-serif;
+    text-align: right;
+    position: relative;
+    font-size: 17px;
+}
+.on-peop i{
+    position: absolute;
+    left: 32px;
+}
+.rules{
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'Fjalla One', sans-serif;
+    text-decoration: none;
+    text-align: left;
+}
+.send{
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #006DFF;
+    font-family: 'Fjalla One', sans-serif;
+    text-decoration: none;
+    text-align: right;
+}
+.regulations{
+    border-top: 2px solid #006DFF;
+    padding-top: 7px;
 }

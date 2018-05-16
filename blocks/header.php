@@ -19,7 +19,7 @@
                 </div>
                 <div class="text-chat col l12 xl12">
                     <div class="nickname">
-                        nickame
+                        nickame <span class="number">[0]</span>
                     </div>
                     <div class="text">
                         message
@@ -27,7 +27,7 @@
                 </div>
                 <div class="text-chat col l12 xl12">
                     <div class="nickname">
-                        nickame1
+                        nickame1 <span class="number">[1]</span>
                     </div>
                     <div class="text">
                         message2
@@ -35,11 +35,30 @@
                 </div>
                 <div class="text-chat col l12 xl12">
                     <div class="nickname">
-                        nickame2
+                        nickame2 <span class="number">[2]</span>
                     </div>
                     <div class="text">
                         message2
                     </div>
+                </div>
+                <div class="now-online col l12 xl12">
+                    <div class="text-a col l8 xl8">
+                        АВТОРИЗУЙТЕСЬ
+                    </div>
+                    <div class="on-peop col l4 xl4">
+                        <i class="material-icons">
+                            people
+                        </i>
+                        321
+                    </div>
+                </div>
+            </div>
+            <div class="regulations">
+                <div class="rules col l6 xl6">
+                    ПРАВИЛА
+                </div>
+                <div class="send col l6 xl6">
+                    ОТПРАВИТЬ
                 </div>
             </div>
         </div>
