@@ -17,6 +17,30 @@
                     </i>
                     <span>Авторизируйтесь</span>
                 </div>
+                <div class="text-chat col l12 xl12">
+                    <div class="nickname">
+                        nickame
+                    </div>
+                    <div class="text">
+                        message
+                    </div>
+                </div>
+                <div class="text-chat col l12 xl12">
+                    <div class="nickname">
+                        nickame1
+                    </div>
+                    <div class="text">
+                        message2
+                    </div>
+                </div>
+                <div class="text-chat col l12 xl12">
+                    <div class="nickname">
+                        nickame2
+                    </div>
+                    <div class="text">
+                        message2
+                    </div>
+                </div>
             </div>
         </div>
         <div class="col l8 xl8 main-block">
