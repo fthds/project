@@ -74,6 +74,12 @@
                 <span class="login">
                     <i class="material-icons key-log">vpn_key</i> Вход</span>
             </div>
+            <div class="btn-s-games">
+                <div class="btn-0"><span></span>Краш</div>
+                <div class="btn-1"><span></span>Классик</div>
+                <div class="btn-2"><span></span>Улучшитель</div>
+                <div class="btn-3"><span></span>Битва</div>
+            </div>
         </div>
     </div>
 </div>
